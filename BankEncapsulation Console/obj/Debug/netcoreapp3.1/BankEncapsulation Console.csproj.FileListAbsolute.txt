@@ -1,0 +1,14 @@
+C:\Users\midas\source\repos\BankEncapsulation\BankEncapsulation Console\bin\Debug\netcoreapp3.1\BankEncapsulation Console.exe
+C:\Users\midas\source\repos\BankEncapsulation\BankEncapsulation Console\bin\Debug\netcoreapp3.1\BankEncapsulation Console.deps.json
+C:\Users\midas\source\repos\BankEncapsulation\BankEncapsulation Console\bin\Debug\netcoreapp3.1\BankEncapsulation Console.runtimeconfig.json
+C:\Users\midas\source\repos\BankEncapsulation\BankEncapsulation Console\bin\Debug\netcoreapp3.1\BankEncapsulation Console.runtimeconfig.dev.json
+C:\Users\midas\source\repos\BankEncapsulation\BankEncapsulation Console\bin\Debug\netcoreapp3.1\BankEncapsulation Console.dll
+C:\Users\midas\source\repos\BankEncapsulation\BankEncapsulation Console\bin\Debug\netcoreapp3.1\BankEncapsulation Console.pdb
+C:\Users\midas\source\repos\BankEncapsulation\BankEncapsulation Console\obj\Debug\netcoreapp3.1\BankEncapsulation Console.csproj.AssemblyReference.cache
+C:\Users\midas\source\repos\BankEncapsulation\BankEncapsulation Console\obj\Debug\netcoreapp3.1\BankEncapsulation Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midas\source\repos\BankEncapsulation\BankEncapsulation Console\obj\Debug\netcoreapp3.1\BankEncapsulation Console.AssemblyInfoInputs.cache
+C:\Users\midas\source\repos\BankEncapsulation\BankEncapsulation Console\obj\Debug\netcoreapp3.1\BankEncapsulation Console.AssemblyInfo.cs
+C:\Users\midas\source\repos\BankEncapsulation\BankEncapsulation Console\obj\Debug\netcoreapp3.1\BankEncapsulation Console.csproj.CoreCompileInputs.cache
+C:\Users\midas\source\repos\BankEncapsulation\BankEncapsulation Console\obj\Debug\netcoreapp3.1\BankEncapsulation Console.dll
+C:\Users\midas\source\repos\BankEncapsulation\BankEncapsulation Console\obj\Debug\netcoreapp3.1\BankEncapsulation Console.pdb
+C:\Users\midas\source\repos\BankEncapsulation\BankEncapsulation Console\obj\Debug\netcoreapp3.1\BankEncapsulation Console.genruntimeconfig.cache
